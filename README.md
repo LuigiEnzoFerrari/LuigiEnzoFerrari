@@ -1,5 +1,16 @@
-# Luigi 
 
 ![42School](42school.png)
 
-Ola! Meu nome eh Luigi e eu atualmente sou estudande da 42 school.
+# A litte about me 
+
+Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][ecole]. My goal is become a greater software engineer and help the people around me as i growing.
+
+## Some hobbies
+
+*	Read comics
+*	Drawing
+*	Watch series and animes
+
+
+
+[ecole]: # "42 school France"
