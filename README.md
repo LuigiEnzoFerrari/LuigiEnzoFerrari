@@ -3,7 +3,7 @@
 
 # A litte about me 
 
-Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][ecole]. My goal is become a greater software engineer and help the people around me as i growing.
+Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][42school]. My goal is become a greater software engineer and help the people around me as i growing.
 
 ## Some hobbies
 
@@ -11,6 +11,9 @@ Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][ecole]
 *	Drawing
 *	Watch series and animes
 
+## [42 Sao Paulo Guide](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki)
 
+*	[SSH Key](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/SSH "SSH key Guide")
+*	[Projects](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/Projects "All projects Guide")
 
-[ecole]: # "42 school France"
+[42school]: https://www.42sp.org.br/ "42 school Sao Paulo"
