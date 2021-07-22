@@ -1,5 +1,5 @@
 
-![42School](42school.png)
+![42School](studing.gif)
 
 # A little about me 
 
