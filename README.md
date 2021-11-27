@@ -1,5 +1,5 @@
 
-![42School](studing.gif)
+![42School](dragon_cover.jpg)
 
 # A little about me 
 
@@ -7,11 +7,10 @@ Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][42scho
 
 ## Some hobbies
 
-* Read comics
 * Drawing
 * Watch series and animes
 * Design
-* Play with animals
+* I love dragons
 
 *Lifelong learning*
 
@@ -19,6 +18,12 @@ Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][42scho
 
 * [SSH Key](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/SSH "SSH key Guide")
 * [Makefile](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/Makefile "Makefile Guide")  
+
+* [Linked-list](https://github.com/LuigiEnzoFerrari/linked-list "Linked-list")  
+
 * [Projects](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/Projects "All projects Guide")  
 
-[42school]: https://www.42sp.org.br/ "42 school Sao Paulo"
+[42school]: https://www.42sp.org.br/ "42 school Sao Paulo"  
+
+## Discord  
+	Lenzo-pe#7218
