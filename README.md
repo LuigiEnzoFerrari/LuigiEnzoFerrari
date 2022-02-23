@@ -1,5 +1,5 @@
 
-![42School](dragon_cover.jpg)
+![42School](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/dragon_cover.jpg)
 
 # A little about me 
 
