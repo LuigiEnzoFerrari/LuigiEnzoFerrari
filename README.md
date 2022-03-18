@@ -1,5 +1,7 @@
 
-![42School](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/dragon_cover.jpg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif">
+</div>
 
 # A little about me 
 
