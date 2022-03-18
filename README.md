@@ -1,19 +1,21 @@
+# Luigi Enzo Pereira Ferrari
+### Software Engineer  
 
-<!-- ![42School](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/dragon_cover.jpg) -->
-![falling](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif)
+![Ecole 42](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/Ecole_42.jpg)
 
-# A little about me 
+<!-- https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif -->
+## A little about me 
 
-Hi there, I'm Luigi Enzo a self-learner and also a student at [42 school][42school]. My goal is become a greater software engineer and help the people around me as i growing.
-
-## Some hobbies
-
-* Drawing
-* Watch series and animes
-* Design
-* I love dragons
-
+Hi there, I'm Luigi Enzo a Software Engineer and also a student at [42 school][42school] in Brazil. I have a lot of interest in problems, not to have it but to solve it simply and efficiently. I also like to share and learn with others so feels free to message me!  
 *Lifelong learning*
+
+## What I'm currently doing
+
+* Learning **C++**  
+* Becoming a master at 
+**Object-Oriented Programming (OOP)**  
+* Looking for a job with the same will to improve and teamwork culture.  
+
 
 ## [42 Sao Paulo Guide](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki)
 
