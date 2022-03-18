@@ -1,7 +1,6 @@
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif">
-</div>
+<!-- ![42School](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/dragon_cover.jpg) -->
+![falling](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif)
 
 # A little about me 
 
