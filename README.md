@@ -11,6 +11,7 @@ Hi there, I'm Luigi Enzo a Software Engineer and also a student at [42 school][4
 
 ## What I'm currently doing
 
+* Learning **Go**
 * Learning **C++**  
 * Becoming a master at 
 **Object-Oriented Programming (OOP)**  
