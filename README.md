@@ -1,33 +1,42 @@
 # Luigi Enzo Pereira Ferrari
 ### Software Engineer  
 
-![Ecole 42](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/Ecole_42.jpg)
+![Network](https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/network.gif)
 
-<!-- https://raw.githubusercontent.com/LuigiEnzoFerrari/LuigiEnzoFerrari/master/.github/images/falling.gif -->
-## A little about me 
+## About me 
 
-Hi there, I'm Luigi Enzo a Software Engineer and also a student at [42 school][42school] in Brazil. I have a lot of interest in problems, not to have it but to solve it simply and efficiently. I also like to share and learn with others so feels free to message me!  
-*Lifelong learning*
+I build scalable systems that drive productivity and cut through the noise. Passionate about engineering simple, efficient solutions for complex real-world problems, ensuring teams can focus on what matters most.
 
 ## What I'm currently doing
 
-* Learning **Go**
-* Learning **C++**  
-* Becoming a master at 
-**Object-Oriented Programming (OOP)**  
-* Looking for a job with the same will to improve and teamwork culture.  
+* Perfecting **System Design** and **Software Architecture**
+* Working on payment processing system projects
+* Dominating **Artificial Intelligence**
+	* LLMs
+	* Agents for Automation
 
+## Stack
 
-## [42 Sao Paulo Guide](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki)
+**Go** - **Python** - **C++** - **C** - **Java** - **TypeScript**
 
-* [SSH Key](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/SSH "SSH key Guide")
-* [Makefile](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/Makefile "Makefile Guide")  
+**gRPC** - **REST**
 
-* [Linked-list](https://github.com/LuigiEnzoFerrari/linked-list "Linked-list")  
+**AWS** - **SNS** - **SQS** - **Lambda** - **CloudWatch** - **S3** - **DynamoDB** - **EC2** - **RDS** - **Parameter Store** - **Kafka**
 
-* [Projects](https://github.com/LuigiEnzoFerrari/LuigiEnzoFerrari/wiki/Projects "All projects Guide")  
+**Docker** - **Terraform** - **n8n**
+
+**Grafana** - **New Relic**
+
+**Postgres** - **Redis**
+
+**Linux** - **SSH**
+
+## Projects
+
+* [Cub3D](https://github.com/LuigiEnzoFerrari/Cub3D "Cub3D")  - Game Development
+* [Minishell](https://github.com/LuigiEnzoFerrari/minishell "Minishell")  - Shell
+* [Red-black tree](https://github.com/LuigiEnzoFerrari/ft_containers-1 "Red-black tree")  - Data Structure
+* [Philosophers](https://github.com/LuigiEnzoFerrari/philosophers "Philosophers")  - Multi-Threaded
+* [Push_swap](https://github.com/LuigiEnzoFerrari/push_swap "Push_swap")  - Sorting Algorithm
 
 [42school]: https://www.42sp.org.br/ "42 school Sao Paulo"  
-
-## Discord  
-	Lenzo-pe#7218
